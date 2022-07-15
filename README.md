@@ -1,1 +1,1 @@
-#https://squizep.github.io/slider/
+# https://squizep.github.io/slider/
